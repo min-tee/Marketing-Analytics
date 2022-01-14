@@ -22,7 +22,6 @@ Directories : datasets - test, train data used in the project, images - Graphs o
 
 **EDA**
 
-**Salary Distribution**
 
 
 ## Devlop
@@ -35,7 +34,7 @@ Directories : datasets - test, train data used in the project, images - Graphs o
 
 
 **Models**
-)
+
 
 
 **Model Evaluation**
