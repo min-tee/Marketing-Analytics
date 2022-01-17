@@ -3,7 +3,7 @@
 # WIP
 
 ## Define
-The objective of Marketing Analyticas project is to create  a predictive model to identify potential clients by gaining insights on existing customer and target new customer with ad campaign. The project code is available at this link....
+The objective of Marketing Analyticas project is to create  a predictive model to target potential clients with ad campaign by gaining insights on existing customer. The project code is available at this link....
 
 ## Discover
 Tools Used : Jupyter Notebook
